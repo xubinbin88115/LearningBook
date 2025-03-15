@@ -8,7 +8,7 @@ using UnityEngine.UI;
 
 public class ApplicationMain 
 {
-    [RuntimeInitializeOnLoadMethod]
+    // [RuntimeInitializeOnLoadMethod]
     static void OnMain()
     {
         GameObject uguiRoot = new GameObject("UGUI");
